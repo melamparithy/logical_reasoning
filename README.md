@@ -1,8 +1,3 @@
-![Overview]
-
-
-
-
 ## Table of Contents
 
 * [Installation](#installation)
