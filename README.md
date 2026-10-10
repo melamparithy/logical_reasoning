@@ -46,11 +46,11 @@ causality_grammar/
 ├── data/
 │   └── vocab.txt
 ├── src/
-│   ├── DAG_processing (1).ipynb
-│   ├── data_annotator.ipynb
-│   ├── decoder_inference.py
-│   └── decoder_train.py
-└── README.md
+    ├── DAG_processing (1).ipynb
+    ├── data_annotator.ipynb
+    ├── decoder_inference.py
+    └── decoder_train.py
+
 ```
 
 * `DAG_processing.ipynb`: Notebook for processing Directed Acyclic Graphs (DAGs).
